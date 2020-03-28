@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="editText">Enter the Amount</string>
+    <string name="input">Amount in $</string>
+    <string name="button">Convert to Ruppee</string>
+    <string name="buttonDollor">Convert to Dollor</string>
+
+</resources>
